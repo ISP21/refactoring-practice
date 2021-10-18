@@ -1,4 +1,3 @@
-package time
 """
 This code creates a datetime.time object from a string.
 
