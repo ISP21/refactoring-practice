@@ -43,6 +43,6 @@ Refactor `main.py`.  What can you do to eliminate the long, boring code?
 
 ## Resources
 
-* <https://refactoringguru.com/refactoring> 
+* <https://refactoring.guru/refactoring> 
 * *Refactoring - Improving the Design of Existing Code* by Martin Fowler.  The bible on refactoring.  The first 4 chapters explain the fundamentals.
 * <https://refactoring.com> Online version of Fowler's book, but lacks explanation of the refactorings.
